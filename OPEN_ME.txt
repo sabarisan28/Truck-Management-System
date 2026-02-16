@@ -1,0 +1,55 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     🚀 TRUCK MANAGEMENT SYSTEM - NOW RUNNING! 🚀            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+✅ FRONTEND IS LIVE!
+
+Open this URL in your browser:
+
+    👉 http://localhost:5173 👈
+
+
+📱 What You Can See:
+
+  ✓ Login Page
+  ✓ Registration Page  
+  ✓ User Dashboard
+  ✓ Book Truck Form
+  ✓ My Bookings
+  ✓ Admin Dashboard (with charts!)
+  ✓ Manage Trucks
+  ✓ Manage Drivers
+  ✓ Manage Bookings
+
+
+⚠️ BACKEND NOT RUNNING
+
+Why: Java 25 is too new for Maven/Spring Boot
+
+Fix: Install Java 17 (5 minutes)
+Download: https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe
+
+
+📚 Read These Files:
+
+  • START_HERE.md - Complete guide
+  • RUNNING_STATUS.md - Current status
+  • TROUBLESHOOTING.md - Solutions
+
+
+🎯 Quick Backend Start (After Java 17):
+
+  cd backend
+  ..\apache-maven-3.9.5\bin\mvn.cmd spring-boot:run
+
+
+═══════════════════════════════════════════════════════════════
+
+Your browser should open automatically to:
+http://localhost:5173
+
+If not, copy and paste the URL above!
+
+═══════════════════════════════════════════════════════════════

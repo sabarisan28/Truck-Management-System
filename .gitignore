@@ -1,0 +1,60 @@
+# Backend (Java/Maven)
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+backend/.idea/
+backend/*.iml
+backend/*.iws
+backend/*.ipr
+backend/.settings/
+backend/.classpath
+backend/.project
+backend/bin/
+backend/logs/
+
+# Frontend (Node/React)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Database
+*.sql.backup
+*.db
+
+# Sensitive files
+application-prod.properties
+.env
+
+# Maven downloads
+apache-maven-*/
+maven.zip
+maven-3.9.9.zip
+
+# Batch files (optional - remove if you want to include them)
+*.bat
+
+# Documentation files (optional - keep these for GitHub)
+# *.md
